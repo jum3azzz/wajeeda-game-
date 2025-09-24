@@ -1,4 +1,4 @@
-// Your web app's Firebase configuration
+/ Your web app's Firebase configuration
 const firebaseConfig = {
     apiKey: "AIzaSyDgGeILDIC11-Q6RC1pARLAAwIq59BlJqc",
     authDomain: "rock-paper-scissors-game-b7511.firebaseapp.com",
@@ -46,7 +46,7 @@ const dares = [
     "Do your best celebrity impression",
     "Share your favorite meme",
     "yapp for 30 mins wajeeda only "
-    "send another arch pic"
+    
 ];
 
 // Game state
